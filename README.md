@@ -95,7 +95,7 @@ This project demonstrates:
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 - Mays Alsalum
 - Hailah Albijadi
@@ -105,7 +105,7 @@ This project demonstrates:
 
 ---
 
-## 🎓 Academic Information
+##  Academic Information
 
 **Course:** Parallel and Distributed Computing Systems
 
